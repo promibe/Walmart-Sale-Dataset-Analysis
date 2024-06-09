@@ -33,9 +33,7 @@ Add Suggestion This is the historical data that covers sales from 2010-02-05 to 
 4. Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
 ### 4 Data Information and Insights - Exploratory Data Analysis
-Below are the general insights gotten from the
-
-Below are the general insights gotten from the 
+Below are the general insights gotten from the Analysis 
   1. The dataset contains 6435 rows and 8 columns
   2. The Unemployment and Temperature columns might contain some outliers
   3. The dataset contains 2 categorical columns and 5 numeric columns and 1 object (date)
@@ -59,6 +57,6 @@ Below are the general insights gotten from the
   21. From the analysis, we noticed that there is an upward trend in the CPI value, i.e to say at weekly interval and increase in Month and Year, the price of commodities increase in the various stores
   22. Extending No. 21 insight, it was finally observed that despite the upward trend in the CPI values, it has little or no linear relationship on the weekly sales, even thou we are having a clustered chart where certain value of CPI has a particular sales but very week linear relationship or no relationship.
 
-6 Visualization:
+### 5 Visualization:
 
 ![1717434978190](image/Readme/1717434978190.png)
