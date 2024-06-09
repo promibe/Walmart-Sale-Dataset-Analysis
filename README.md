@@ -62,17 +62,26 @@ Below are the general insights gotten from the Analysis
 ![year_with_the_highest_sales](images/year_with_the_highest_sales.png)
 
 #### Stores year weekly_sales
-![year_with_the_highest_sales](images/year_with_the_highest_sales.png)
+![Stores_yearly_Sales_visualisation](images/Stores_yearly_Sales_visualisation.png)
+
 #### Comapring the Sales in Holidays and non-Holidays
+![Holiday_Flag_sales_Comparison](images/Holiday_Flag_sales_Comparison.png)
 
 #### Highest Average weekly_sales on Holidays
+![Holiday_Sales.](images/Holiday_Sales..png)
 
 #### Does the Temperature and fuel cost has any effect on the week sales
+![Correlation_between_temperature_and_fuel_cost_to_sales](images/Correlation_between_temperature_and_fuel_cost_to_sales.png)
+
+![Correlation_between_temperature_and_fuel_cost_to_sales](images/Correlation_between_temperature_and_fuel_cost_to_sales.png)
 
 #### What is the relationship between the prevailing unemployment rate and the weekly sales
+![Stores_yearly_Sales_visualisation](images/Stores_yearly_Sales_visualisation.png)
 
 #### Checking if the CPI on the store increases or decreases by time across the dataset and among the different stores
+![Stores_yearly_Sales_visualisation](images/Stores_yearly_Sales_visualisation.png)
 
 #### Checking if the Relationship between the CPI and the Weekly Sales
+![Stores_yearly_Sales_visualisation](images/Stores_yearly_Sales_visualisation.png)
 
 
