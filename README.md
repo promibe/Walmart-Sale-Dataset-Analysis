@@ -32,7 +32,37 @@ Add Suggestion This is the historical data that covers sales from 2010-02-05 to 
 3. Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13
 4. Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
-### 4 Data Information and Insights - Exploratory Data Analysis
+### 4 Visualization:
+#### The year that has the highest Average sales on the sales day
+![year_with_the_highest_sales](images/year_with_the_highest_sales.png)
+
+#### Stores year weekly_sales
+![Stores_yearly_Sales_visualisation](images/Stores_yearly_Sales_visualisation.png)
+
+#### Comapring the Sales in Holidays and non-Holidays
+![Holiday_Flag_sales_Comparison](images/Holiday_Flag_sales_Comparison.png)
+
+#### Highest Average weekly_sales on Holidays
+![Holiday_Sales.](images/Holiday_Sales..png)
+
+#### Does the Temperature and fuel cost has any effect on the week sales
+![Correlation_between_temperature_and_fuel_cost_to_sales](images/Correlation_between_temperature_and_fuel_cost_to_sales.png)
+
+![relationship_visualisation_of_temp_and_fuel_to_sales](images/relationship_visualisation_of_temp_and_fuel_to_sales.png)
+
+#### What is the relationship between the prevailing unemployment rate and the weekly sales
+![Correlation_between_unemployment_rate_to_sales](images/Correlation_between_unemployment_rate_to_sales.png)
+
+![relationship_visualisation_of_unemployment_to_sales](images/relationship_visualisation_of_unemployment_to_sales.png)
+
+#### Checking if the CPI on the store increases or decreases by time across the dataset and among the different stores
+![CPI Trend](images/"CPI Trend".png)
+
+#### Checking if the Relationship between the CPI and the Weekly Sales
+![correlation_of_CPI_to_sales](images/correlation_of_CPI_to_sales.png)
+
+
+### 5 Data Information and Insights - Exploratory Data Analysis
 Below are the general insights gotten from the Analysis 
   1. The dataset contains 6435 rows and 8 columns
   2. The Unemployment and Temperature columns might contain some outliers
@@ -56,32 +86,4 @@ Below are the general insights gotten from the Analysis
   20. so we can say that the unemployment rate in a particular region can affect the weekly sales in a particular store even though its significance is not much i.e -0.11 correlation value which is a very week negative correlation
   21. From the analysis, we noticed that there is an upward trend in the CPI value, i.e to say at weekly interval and increase in Month and Year, the price of commodities increase in the various stores
   22. Extending No. 21 insight, it was finally observed that despite the upward trend in the CPI values, it has little or no linear relationship on the weekly sales, even thou we are having a clustered chart where certain value of CPI has a particular sales but very week linear relationship or no relationship.
-
-### 5 Visualization:
-#### The year that has the highest Average sales on the sales day
-![year_with_the_highest_sales](images/year_with_the_highest_sales.png)
-
-#### Stores year weekly_sales
-![Stores_yearly_Sales_visualisation](images/Stores_yearly_Sales_visualisation.png)
-
-#### Comapring the Sales in Holidays and non-Holidays
-![Holiday_Flag_sales_Comparison](images/Holiday_Flag_sales_Comparison.png)
-
-#### Highest Average weekly_sales on Holidays
-![Holiday_Sales.](images/Holiday_Sales..png)
-
-#### Does the Temperature and fuel cost has any effect on the week sales
-![Correlation_between_temperature_and_fuel_cost_to_sales](images/Correlation_between_temperature_and_fuel_cost_to_sales.png)
-
-![Correlation_between_temperature_and_fuel_cost_to_sales](images/Correlation_between_temperature_and_fuel_cost_to_sales.png)
-
-#### What is the relationship between the prevailing unemployment rate and the weekly sales
-![Stores_yearly_Sales_visualisation](images/Stores_yearly_Sales_visualisation.png)
-
-#### Checking if the CPI on the store increases or decreases by time across the dataset and among the different stores
-![Stores_yearly_Sales_visualisation](images/Stores_yearly_Sales_visualisation.png)
-
-#### Checking if the Relationship between the CPI and the Weekly Sales
-![Stores_yearly_Sales_visualisation](images/Stores_yearly_Sales_visualisation.png)
-
 
