@@ -59,10 +59,10 @@ Below are the general insights gotten from the Analysis
 
 ### 5 Visualization:
 #### The year that has the highest Average sales on the sales day
-![1717434978190](image/Readme/1717434978190.png)
+![year_with_the_highest_sales](images/year_with_the_highest_sales.png)
 
 #### Stores year weekly_sales
-
+![year_with_the_highest_sales](images/year_with_the_highest_sales.png)
 #### Comapring the Sales in Holidays and non-Holidays
 
 #### Highest Average weekly_sales on Holidays
