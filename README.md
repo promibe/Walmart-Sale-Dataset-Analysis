@@ -58,5 +58,21 @@ Below are the general insights gotten from the Analysis
   22. Extending No. 21 insight, it was finally observed that despite the upward trend in the CPI values, it has little or no linear relationship on the weekly sales, even thou we are having a clustered chart where certain value of CPI has a particular sales but very week linear relationship or no relationship.
 
 ### 5 Visualization:
-
+#### The year that has the highest Average sales on the sales day
 ![1717434978190](image/Readme/1717434978190.png)
+
+#### Stores year weekly_sales
+
+#### Comapring the Sales in Holidays and non-Holidays
+
+#### Highest Average weekly_sales on Holidays
+
+#### Does the Temperature and fuel cost has any effect on the week sales
+
+#### What is the relationship between the prevailing unemployment rate and the weekly sales
+
+#### Checking if the CPI on the store increases or decreases by time across the dataset and among the different stores
+
+#### Checking if the Relationship between the CPI and the Weekly Sales
+
+
